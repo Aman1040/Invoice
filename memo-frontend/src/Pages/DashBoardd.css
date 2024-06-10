@@ -1,0 +1,22 @@
+.dashboard-body{
+    display: flex;
+   
+    padding-left: 2rem;
+    padding-top: 3rem;
+}
+.card-body{
+    
+    height: 30vh;
+    padding: 2.5rem;
+    color: white;
+    
+    
+}
+.card-header{
+    color: white;
+}
+.dashboard-card1{
+    
+    padding-right: 2rem;
+    
+}

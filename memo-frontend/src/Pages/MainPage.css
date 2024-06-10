@@ -1,0 +1,43 @@
+.main-container{
+   
+    height: 90vh;
+    display:flex;
+}
+.font-regular{
+    font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.main-part2a{
+    
+    height: 10%;
+    margin: 1%;
+    
+}
+.main-part2b{
+    margin: 2%;
+    margin-top: 0;
+    height: 90%;
+}
+.main-header{
+    padding-top: 10px;
+    height: 10vh;
+    
+    display: flex;
+}
+.main-part1{
+    margin-top: 1%;
+    width: 18%;
+    font-size: large;
+    
+}
+.main-part2{
+   
+    width: 82%;
+}
+
+.main-button:hover{
+    font-weight: 600;
+    text-decoration: none;
+
+}
